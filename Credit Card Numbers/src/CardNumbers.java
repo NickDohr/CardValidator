@@ -40,6 +40,7 @@ public class CardNumbers
 					creditCardNumber /= 10;
 					
 				}
+			// suprise
 			
 	//digit stripping and multiplying by two
 			for(int a = 0; a < 16; a = a+2)
